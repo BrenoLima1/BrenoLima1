@@ -1,4 +1,4 @@
-# Olá! Eu sou o Breno Lima, estudante e futuro desenvolvedor full stack! 👋
+# Olá! Eu sou o Breno Lima, desenvolvedor full stack! 👋
 
 <div align="center" dir="auto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoLima1&show_icons=true&theme=dark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=BrenoLima&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
