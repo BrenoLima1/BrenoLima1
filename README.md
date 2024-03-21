@@ -22,7 +22,7 @@
 <a><img src="https://c.tenor.com/ZmEakXUhaw8AAAAM/mickey-mouse-smile.gif" style="max-width: 100%;"></a>
 </div>
 
-- 🔭 Atualmente estou realizando meu TCC em Sistemas de Informação
-- 🌱 Estudando PHP, JavaScript e TypeScript
+- 🔭 Bacharel em Sistemas de Informação
+- 🌱 Aprimorando conhecimentos em PHP, JavaScript, TypeScript e SQL
 - 📫 Contate-me em: brenolimanf@gmail.com
 - 😄 Pronouns: ele/dele
