@@ -23,6 +23,6 @@
 </div>
 
 - 🔭 Bacharel em Sistemas de Informação
-- 🌱 Aprimorando conhecimentos em PHP, JavaScript, TypeScript e SQL
+- 🌱 Aprimorando conhecimentos em Java
 - 📫 Contate-me em: brenolimanf@gmail.com
 - 😄 Pronouns: ele/dele
