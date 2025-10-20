@@ -24,6 +24,6 @@
 </div>
 
 - 🔭 Bacharel em Sistemas de Informação
-- 🌱 Aprimorando conhecimentos em Java
+- 🌱 Aprimorando conhecimentos em Java e Python
 - 📫 Contate-me em: brenolimanf@gmail.com
 - 😄 Pronouns: ele/dele
